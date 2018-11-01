@@ -5,6 +5,6 @@ class SayHello
 {
     public static function world()
     {
-        return 'Hello World, This is my first composer pacakge!';
+        return 'Does this still update? Yes it does!';
     }
 }
