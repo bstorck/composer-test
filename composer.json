@@ -21,14 +21,9 @@
             "HelloWorld": "src/"
         }
     },
-	"extra": {
-	   "branch-alias": {
-		   "dev-master": "1.7-dev"
-	   }
-   },
-   "config": {
+    "config": {
 	   "sort-packages": true
-   },
-   "minimum-stability": "dev",
-   "prefer-stable": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
