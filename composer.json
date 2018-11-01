@@ -15,6 +15,7 @@
         }
     ],
     "require": {
+		"bstorck/hello-world" : "self.version",
         "php": ">=7.1"
     },
     "autoload": {
