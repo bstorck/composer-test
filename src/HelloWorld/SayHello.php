@@ -5,6 +5,6 @@ class SayHello
 {
     public static function world()
     {
-        return 'Does this still update? Yes it does! Stil Updates? ### ';
+        return 'Does this still update? Yes it does! Stil Updates?';
     }
 }
